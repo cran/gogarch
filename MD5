@@ -1,4 +1,4 @@
-632aa99d3720a859f8967cce700bcf63 *DESCRIPTION
+c3fa2abc3280046d324e0678f3448fc8 *DESCRIPTION
 e5af5cb3cfd3574e21ef48f124b6c271 *NAMESPACE
 79652c821f334c3c064a16ee843b9f62 *R/All-classes.R
 a0cfaefd0d2352d1dbd3763e48598946 *R/All-generics.R
@@ -23,11 +23,11 @@ c00e17315c2b00dd14dd568551d0acaa *R/Methods-summary.R
 8e0a5b31a655b8fa4f256d8a20f1de5d *R/Methods-t.R
 74a556af9a6da41d1ee4349c334b3fb8 *R/Methods-update.R
 b77b2ffc8040b2320a2e8ed41b8073c5 *R/Validation.R
-a5d5f048e044eda36bf8c16a181eedd5 *data/BVDW.rda
-792066138accf156974df1fd554dfd57 *data/BVDWAIR.rda
-3b911634ccfff300a22cb94a91a9c0ab *data/BVDWSTOXX.rda
-a5f3fc507685074b64ee90d4f0644471 *data/VDW.rda
-d0215a9271b1e150d4a53637a66c3f48 *inst/ChangeLog
+c5b7429d356772948d9be07a8d5a6d08 *data/BVDW.rda
+24dd1f6c52278d24a02f0fbcdcf16df1 *data/BVDWAIR.rda
+b7afd99a0a6cbcdea5531d2ca45c3330 *data/BVDWSTOXX.rda
+beb292fa942c66b00299276959995f0d *data/VDW.rda
+9d81c71a41f333d4fd2df1fa7fa20d2a *inst/ChangeLog
 2c68dd50dcff7696d56d95bb72e2c5c9 *inst/Talks/pfaff-meielisalp.pdf
 75ff5768edbe678e321568c7b954e684 *man/BVDW.Rd
 b9b0018e342599c18ade4228bc43f716 *man/BVDWAIR.Rd
