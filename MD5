@@ -1,5 +1,5 @@
-c3fa2abc3280046d324e0678f3448fc8 *DESCRIPTION
-e5af5cb3cfd3574e21ef48f124b6c271 *NAMESPACE
+38fa8ca7f0804cd796380b9f61da0875 *DESCRIPTION
+b6f75d6c2d865284c63ed7af0b5f0734 *NAMESPACE
 79652c821f334c3c064a16ee843b9f62 *R/All-classes.R
 a0cfaefd0d2352d1dbd3763e48598946 *R/All-generics.R
 a713ccb8f2b59076572bfb885b77a444 *R/Functions.R
@@ -23,14 +23,14 @@ c00e17315c2b00dd14dd568551d0acaa *R/Methods-summary.R
 8e0a5b31a655b8fa4f256d8a20f1de5d *R/Methods-t.R
 74a556af9a6da41d1ee4349c334b3fb8 *R/Methods-update.R
 b77b2ffc8040b2320a2e8ed41b8073c5 *R/Validation.R
-c5b7429d356772948d9be07a8d5a6d08 *data/BVDW.rda
-24dd1f6c52278d24a02f0fbcdcf16df1 *data/BVDWAIR.rda
-b7afd99a0a6cbcdea5531d2ca45c3330 *data/BVDWSTOXX.rda
-beb292fa942c66b00299276959995f0d *data/VDW.rda
+adb0ad6ab99440d9027687c9139fcf01 *data/BVDW.rda
+17882121098517c9b202390b9cbe81d0 *data/BVDWAIR.rda
+7bbc53cbf7dd349d4712ede69277eebd *data/BVDWSTOXX.rda
+1cb1f71d17bc6d49c2566014d872cb02 *data/VDW.rda
 9d81c71a41f333d4fd2df1fa7fa20d2a *inst/ChangeLog
 2c68dd50dcff7696d56d95bb72e2c5c9 *inst/Talks/pfaff-meielisalp.pdf
-75ff5768edbe678e321568c7b954e684 *man/BVDW.Rd
-b9b0018e342599c18ade4228bc43f716 *man/BVDWAIR.Rd
+e8bdc4f05ace16be1bd65ba2518427c0 *man/BVDW.Rd
+0d51d059bf6fc8bd5919fd45fc1e1e07 *man/BVDWAIR.Rd
 df4c976e2d040f186f255d492dda0db0 *man/BVDWSTOXX.Rd
 bd3fa7795d5c34d5799bd286445a4baf *man/GoGARCH-class.Rd
 fb6de0bbeba304a7808d590970c02cde *man/Goestica-class.Rd
@@ -44,7 +44,7 @@ d86f70a036f3998fb9c356297a46dc28 *man/Goestnls-class.Rd
 2d492744c46c203c40a8e68e13a38e5f *man/Rd2.Rd
 5492fc3a8f8b247ea41213d6a48dcd8d *man/Umatch.Rd
 55559662aeae4bb1a27107454e485869 *man/UprodR.Rd
-e866070ea397493278d93dc0eac96f03 *man/VDW.Rd
+c7c446ac285056d14d939bef5912f137 *man/VDW.Rd
 fd839596780d59006bc6d904897693d2 *man/cora.Rd
 5d40e2019a89e8c51a987fc79d9f42d8 *man/goest-methods.Rd
 c52878ce98c6da6439be36062d7b9bf6 *man/gogarch.Rd
